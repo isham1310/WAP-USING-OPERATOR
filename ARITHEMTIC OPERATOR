@@ -1,0 +1,11 @@
+#ARITHEMTIC OPERATOR
+a = 15
+b = 9
+print(a+b) #use for addition
+print(a-b) #use for subraction
+print(a*b) #use for multiplication
+print(a/b) #use for divison
+print(a%b) #use for pecentage
+print(a**b) #use for squaring
+
+
